@@ -1,8 +1,8 @@
-# README
+# wails-react-template
 
 ## About
 
-About your template
+A simple [Wails v2](https://wails.io) template for React, using TypeScript.
 
 ## Live Development
 
