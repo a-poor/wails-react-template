@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
+  "name": "Wails React Template",
   "shortname": "wails-react-template",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "author": "Austin Poor",
+  "description": "A Wails v2 template for React",
+  "helpurl": "https://github.com/a-poor/wails-react-template"
 }
